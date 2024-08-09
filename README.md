@@ -1,5 +1,3 @@
-
-
 ---
 
 ### Ahmed Waqar Rao
@@ -29,16 +27,5 @@ adaptive selection methods for **UAV target detection** and enhancing **UAV tech
 **sensor group selection** and **embedded AI integration**. I am dedicated to continuous learning and staying
 updated on the latest advancements in these fields to deliver high-quality results. With a strong aptitude for
 problem-solving and a collaborative approach, my goal is to make meaningful contributions to the advancement of **AI**.
-
----
-
-**Languages and Tools:**  
-- **Programming:** Python, MATLAB, C++, TensorFlow, PyTorch  
-- **UAV Technology:** Sensor Integration, Edge Computing, UAV Control Systems  
-- **AI/ML:** Object Detection, Segmentation, Deep Learning Models  
-- **Software Tools:** Jupyter, GitHub, VS Code  
-- **Other Skills:** Data Analysis, Model Training, Problem Solving  
-
-
 
 ---
