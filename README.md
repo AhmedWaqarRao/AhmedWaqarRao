@@ -5,7 +5,7 @@
 ### Ahmed Waqar Rao
 👋 Hi, I’m @AhmedWaqarRao  
 👀 I’m passionate about **Deep Learning**, **Machine Learning**, and **Computer Vision**, particularly in the **technology sector** using **Unmanned Aerial Vehicles (UAVs) 🚁**.  
-🌱  learning Never ends and I’m currently learning **AI** in **UAV technology**. 
+🌱  Learning never ends and I’m currently learning **AI** in **UAV technology**. 
 📫 How to reach me: ahmedwaqarrao.909@gmail.com
 
 ---
