@@ -25,7 +25,7 @@ School of Computer Science, Northwestern Polytechnical University, 710072, Xi'an
 I am passionate about applying my experience in **Deep Learning**, **Machine Learning**, and **Computer Vision** 
 to the **technology sector** using **Unmanned Aerial Vehicles (UAVs) 🚁**. My focus is on **Object Detection** 
 and **Segmentation**. I possess comprehensive experience in these domains, including developing edge-based 
-adaptive selection methods for **UAV target detection** and enhancing **UAV technology**through 
+adaptive selection methods for **UAV target detection** and enhancing **UAV technology** through 
 **sensor group selection** and **embedded AI integration**. I am dedicated to continuous learning and staying
 updated on the latest advancements in these fields to deliver high-quality results. With a strong aptitude for
 problem-solving and a collaborative approach, my goal is to make meaningful contributions to the advancement of **AI**.
